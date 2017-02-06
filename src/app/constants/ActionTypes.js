@@ -1,0 +1,6 @@
+export const SET_ROUTE = 'SET_ROUTE';
+export const SET_SELECTED_ITEM = 'SET_SELECTED_ITEM';
+export const SET_COMMENT_FOR_ITEM = "SET_COMMENT_FOR_ITEM";
+export const FETCH_DATA = 'FETCH_DATA';
+export const FETCH_DATA_SUCCESS = 'FETCH_DATA_SUCCESS';
+
